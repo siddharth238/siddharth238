@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my Live projects are available at [https://siddharthroyx.netlify.app/](https://siddharthroyx.netlify.app/)
 
+- 👨‍💻 My UI & UX projects are available at [https://siddharth-me-uiux.netlify.app/](https://siddharth-me-uiux.netlify.app/)
+
 - 📫 How to reach me [https://linktr.ee/siddharthpampana](https://linktr.ee/siddharthpampana)
 
 - 📫 Mail **siddharthpampana9@gmail.com**

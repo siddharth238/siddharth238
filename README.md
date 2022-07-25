@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my Live projects are available at [https://siddharthroyx.netlify.app/](https://siddharthroyx.netlify.app/)
 
-- 📫 How to reach me [https://siddharthroyx.netlify.app/](https://linktr.ee/siddharthpampana)
+- 📫 How to reach me [https://linktr.ee/siddharthpampana](https://linktr.ee/siddharthpampana)
 
 - 📫 Mail **siddharthpampana9@gmail.com**
 

@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddharth Pampana</h1>
 <h3 align="center">Experienced Full stack Software Developer with expertise in design, development of software Applications.</h3>
 
-- **Angular, React Native.**
 
 - 👨‍💻 All of my projects are available at [https://siddharthroyx.netlify.app/](https://siddharthroyx.netlify.app/)
 
 - 👨‍💻 My UI & UX projects are available at [https://siddharth-me-uiux.netlify.app/](https://siddharth-me-uiux.netlify.app/)
 
-- 📫 How to reach me [siddharthpampana9@gmail.com](siddharthpampana9@gmail.com)
+- 📫 How to reach me [mailto:](siddharthpampana9@gmail.com)
 
 - 📫 How to reach me **https://linktr.ee/siddharthpampana**
 

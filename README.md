@@ -3,9 +3,11 @@
 
 - **Angular, React Native.**
 
-- 👨‍💻 All of my projects are available at [https://siddharthroyx.netlify.app/](https://siddharthroyx.netlify.app/)
+- 👨‍💻 All of my Live projects are available at [https://siddharthroyx.netlify.app/](https://siddharthroyx.netlify.app/)
 
-- 📫 How to reach me **siddharthpampana9@gmail.com**
+- 📫 How to reach me [https://siddharthroyx.netlify.app/](https://siddharthroyx.netlify.app/)
+
+- 📫 Mail **siddharthpampana9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
